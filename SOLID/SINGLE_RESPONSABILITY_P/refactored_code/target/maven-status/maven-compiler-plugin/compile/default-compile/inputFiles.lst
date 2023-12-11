@@ -1,0 +1,6 @@
+/home/paul_dany/Documents/projects_practice/spring_boot/design_patterns_solid_design_principles/SOLID/SINGLE_RESPONSABILITY_P/refactored_code/src/main/java/com/company/singleresp/UserValidator.java
+/home/paul_dany/Documents/projects_practice/spring_boot/design_patterns_solid_design_principles/SOLID/SINGLE_RESPONSABILITY_P/refactored_code/src/main/java/com/company/singleresp/Main.java
+/home/paul_dany/Documents/projects_practice/spring_boot/design_patterns_solid_design_principles/SOLID/SINGLE_RESPONSABILITY_P/refactored_code/src/main/java/com/company/singleresp/User.java
+/home/paul_dany/Documents/projects_practice/spring_boot/design_patterns_solid_design_principles/SOLID/SINGLE_RESPONSABILITY_P/refactored_code/src/main/java/com/company/singleresp/UserController.java
+/home/paul_dany/Documents/projects_practice/spring_boot/design_patterns_solid_design_principles/SOLID/SINGLE_RESPONSABILITY_P/refactored_code/src/main/java/com/company/singleresp/UserPersistenceService.java
+/home/paul_dany/Documents/projects_practice/spring_boot/design_patterns_solid_design_principles/SOLID/SINGLE_RESPONSABILITY_P/refactored_code/src/main/java/com/company/singleresp/Store.java
