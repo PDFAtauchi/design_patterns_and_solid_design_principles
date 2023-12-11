@@ -17,6 +17,10 @@ public class UserValidator {
         if(!isValidAlphaNumeric(user.getName())) {
             return false;
         }
+        
+        if(!isPresent(user.getEmail())) {
+            return false;
+        }
 
         if(!isValidEmail(user.getEmail())) {
             return false;
