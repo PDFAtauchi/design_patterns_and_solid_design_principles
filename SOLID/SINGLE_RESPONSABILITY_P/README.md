@@ -9,7 +9,7 @@
 - A class should have a single responsibility
 - High cohesion, low coupling
 - If many responsibility, high probability to introduce bugs, changes in one responsibility could affect other responsibility.
-
+- What suppose this class do? what actually this class do?
 
 ## Resources
 
